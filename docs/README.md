@@ -1,3 +1,7 @@
+# ESP8266
+
+> The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and microcontroller capability produced by Shanghai-based Chinese manufacturer, Espressif.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hardwareplatforms/esp8266/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
